@@ -1,5 +1,7 @@
 # YoloV4-custom-object-Detection
-In this project we will train the YOLOv4 network on 3 classes 'Ambulance' , 'Car' , 'Person' with the Google open image dataset and run the detection on a real video caught on a moving traffic camera.
+In this project we will train the YOLOv4 network on 2 classes 'car' , 'bike'.
+![predictions](https://user-images.githubusercontent.com/108931665/206220206-79715dc1-2957-46fa-998e-b8edad9288b7.jpg)
+
 
 # Yolo v4, v3 and v2 for Windows and Linux
 
