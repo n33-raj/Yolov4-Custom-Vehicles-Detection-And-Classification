@@ -1,3 +1,6 @@
+# YoloV4-custom-object-Detection
+In this project we will train the YOLOv4 network on 3 classes 'Ambulance' , 'Car' , 'Person' with the Google open image dataset and run the detection on a real video caught on a moving traffic camera.
+
 # Yolo v4, v3 and v2 for Windows and Linux
 
 ## (neural networks for object detection)
