@@ -1,9 +1,11 @@
 # YoloV4-custom-object-Detection
-In this project we will train the YOLOv4 network on 2 classes 'car' , 'bike'.
+I trained the YOLOv4 network on 6 classes Car, Bike, Person, Bus, 3W & Bicycle
 ![predictions](https://user-images.githubusercontent.com/108931665/206220206-79715dc1-2957-46fa-998e-b8edad9288b7.jpg)
 ----
 
 
+![yoloimg](https://user-images.githubusercontent.com/108931665/206761479-d88c543b-b78d-45e6-94d6-0ea6700df9d5.png)
+----
 https://user-images.githubusercontent.com/108931665/206303064-ae3094be-6245-43db-aecf-284caea7a991.mp4
 
 ----
